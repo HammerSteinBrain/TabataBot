@@ -9,7 +9,9 @@ Professor Giuliano Bertoti
 ### Pre-requisitos
 
 Executar o projeto em python
+
 Executar o projeto remotamente/servidor
+
 Executar o projeto na plataforma Telegram
 
 ### Relatório em pdf complementar
