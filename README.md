@@ -26,7 +26,7 @@ Executar o projeto na plataforma Telegram
 -Bot Father
 -Telegram
 
-## Contruido com:
+## Construido com:
 
 * [Python](https://www.python.org/doc/) - The language used
 * [Bot Father](https://telegram.me/BotFather) - Assistent Development used
